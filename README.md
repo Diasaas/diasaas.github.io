@@ -1,6 +1,3 @@
-# diasaas.github.io
-site
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">

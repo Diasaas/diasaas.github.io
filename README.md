@@ -53,11 +53,16 @@
 
 <div id="video" class="section">
  <h2>Видео</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=jGhv9UiGDh_cyxd-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  <video controls>
  <source src="video/sample.mp4" type="video/mp4">
  </video>
 </div>
+
+<div id="video" class="section">
+ <h2>Видео</h2>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=jGhv9UiGDh_cyxd-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 <div id="map" class="section">
  <h2>Карта</h2>

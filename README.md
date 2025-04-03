@@ -47,7 +47,7 @@
     <div id="audio" class="section">
  <h2>Аудио</h2>
  <audio controls>
- <source src="audio.mp3">
+ <source src="audio.MP3">
  </audio>
 </div>
 

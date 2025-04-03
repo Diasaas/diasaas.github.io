@@ -47,7 +47,7 @@ nav ul li a {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
-* Пример CSS-анимации */
+/* Пример CSS-анимации */
  .animate {
  animation: fadein 2s; 
  }

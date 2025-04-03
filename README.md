@@ -25,7 +25,7 @@
 
     <div id="home" class="section active">
         <h2>Добро пожаловать!</h2>
-        <p>Это главная страница йоу.</p>
+        <p>Это главная страница че там йоу.</p>
     </div>
     
     <div id="about" class="section">

@@ -67,7 +67,6 @@
  <h2>Анимация</h2>
  <p class="animate">РАЗ аз АРТ АРТ ААА АРТ.</p>
 </div>
-
     <script src="script.js"></script> <!-- Подключаем JavaScript -->
 </body>
 </html>

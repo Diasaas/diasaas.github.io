@@ -40,7 +40,7 @@
     
     <div id="image" class="section">
         <h2>Изображение</h2>
-        <p>Здесь будет размещено какое-то изображение.</p>
+        <p>Райан Гослинг.</p>
         <img src="image.jpg" alt="Пример изображения" class="site-image">
     </div>
 
@@ -51,12 +51,6 @@
  </audio>
 </div>
 
-<div id="video" class="section">
- <h2>Видео</h2>
- <video controls>
- <source src="video/sample.mp4" type="video/mp4">
- </video>
-</div>
 
 <div id="video" class="section">
  <h2>Видео</h2>

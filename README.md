@@ -64,7 +64,7 @@
 </div>
 
 <div id="animation" class="section">
- <h2>Анимацэйшн</h2>
+ <h2>Анимэйшн</h2>
  <p class="animate">РАЗ аз АРТ АРТ ААА АРТ.</p>
 </div>
     <script src="script.js"></script> <!-- Подключаем JavaScript -->

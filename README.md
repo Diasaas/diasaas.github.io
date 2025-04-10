@@ -25,12 +25,12 @@
 
     <div id="home" class="section active">
         <h2>Добро пожаловать!</h2>
-        <p>Это главная страница че там йоу.</p>
+        <p>Это главная страница моего легендарного сайта.</p>
     </div>
     
     <div id="about" class="section">
         <h2>Обо мне</h2>
-        <p>Здесь вы можете узнать немного о моем профиле.</p>
+        <p>Здесь вы можете узнать что то о моем профиле.</p>
     </div>
     
     <div id="skills" class="section">
@@ -64,7 +64,7 @@
 </div>
 
 <div id="animation" class="section">
- <h2>Анимация</h2>
+ <h2>Анимацэйшн</h2>
  <p class="animate">РАЗ аз АРТ АРТ ААА АРТ.</p>
 </div>
     <script src="script.js"></script> <!-- Подключаем JavaScript -->
